@@ -1,0 +1,34 @@
+# Roadmap — Adições do arquivo
+
+- [x] Diário: texto livre, relatório semanal/mensal, nuvem de palavras
+- [x] Metas: período (semana/mês/ano), status, celebração ao concluir, hobbies/desenhos, karaokê, histórias
+- [x] Relaxamento: meditação guiada + sons com tempo de repetição
+- [x] Nova aba Bate-papo/rodas de conversa (entre Conversas e Psicólogos)
+- [x] Emergência: admin gerencia números globais; usuário adiciona os seus no perfil
+- [x] Nova aba Rotina (depois de Agenda) com impressão A4 paisagem
+- [x] Rotina em quadro semanal com tarefas por dia, agenda integrada e notas
+- [x] Offline/PWA para páginas principais (service worker + manifest)
+- [x] Frases de incentivo (metas não cumpridas) gerenciadas pelo ADM
+- [x] Notificação diária no dispositivo (frase + tarefas do dia)
+- [x] Push diário (frase do dia, app fechado) — Android, Windows, Mac, Linux, iOS 16.4+ instalado
+- [~] Notificação diária por e-mail — depende de envio agendado de e-mails; não implementado
+- [x] Corrigir botões do menu sobrepostos
+- [x] Áudio na meditação guiada (voz pt-BR + música de fundo + sino)
+- [x] Meditação: tempo até 20 min, escolha de voz e de música
+- [x] Perfil somente leitura; edição apenas pelo ADM
+- [x] Rodas de conversa com chat em grupo
+- [x] Conversas com professores, pedagogos, psicólogos e colegas
+- [x] ADM: notificação para todos, usuário específico ou teste
+- [x] Rotina: acordar/dormir dentro da tabela (padrão e por dia)
+- [x] Metas: colorir online com paleta, borracha, desfazer/refazer e download
+- [x] Metas: identificar os campos de nome, período e quantidade de vezes
+- [x] Adicionar 50 desenhos interativos sem remover os três existentes
+- [x] ADM: cadastrar, editar e excluir desenhos com coleção persistente
+- [x] ADM: aprovar/rejeitar cadastros e bloquear Metas/Rotina antes da aprovação
+- [x] Corrigir edição dos perfis pelo ADM
+- [x] Revisar envio de mensagens pelos participantes das rodas online e presenciais
+- [ ] ADM: envio de e-mail individual — seção e destinatários prontos; bloqueado pelo domínio de envio ainda não configurado
+- [x] ADM: recolher os desenhos em uma faixa expansível
+- [x] ADM: lista de cadastros filtrada por pendente, aprovado e rejeitado
+- [x] Exigir aprovação em todas as áreas internas e nas operações do aplicativo
+- [ ] Configurar domínio institucional de e-mail e enviar teste individual a um cadastro aprovado — depende de domínio autorizado
